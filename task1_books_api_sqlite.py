@@ -1,9 +1,3 @@
-"""
-Assumptions:
-- Uses Open Library public HTTPS API.
-- Only a small, bounded dataset is fetched to avoid abuse.
-- SQLite database file is assumed to be local (app.db).
-"""
 
 import logging
 import sqlite3

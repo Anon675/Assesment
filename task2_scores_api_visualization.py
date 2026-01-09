@@ -1,9 +1,3 @@
-"""
-Assumptions:
-- Uses DummyJSON public HTTPS API.
-- Scores are mapped from 'rating' field for demonstration.
-- Output chart is saved locally.
-"""
 
 import logging
 import requests

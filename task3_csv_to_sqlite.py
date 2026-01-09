@@ -1,9 +1,4 @@
-"""
-Assumptions:
-- CSV file is local and trusted but still validated.
-- Emails are minimally validated.
-- Uses same SQLite database (app.db).
-"""
+
 
 import csv
 import logging
